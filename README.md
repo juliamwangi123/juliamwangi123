@@ -6,8 +6,10 @@
 - 🌱 I’m currently learning ...Python
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: ...juliahwambui3@gmail.com
-- 😄 Pronouns: ...she
 - ⚡ Fun fact: ... am a recovering introvert
+
+
+
 
 <div style ="display:flex">
 
@@ -20,6 +22,8 @@
 
 
 </div>
+  
+  
 
 
 
