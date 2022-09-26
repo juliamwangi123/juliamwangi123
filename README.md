@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning ...MERN
+- 🌱 I’m currently learning ...MERN STACK
 - 👯 I’m looking to collaborate on open source projects
 - 📫 How to reach me: ...juliahwambui3@gmail.com
 - ⚡ Fun fact: ... am a recovering introvert
