@@ -14,7 +14,7 @@
 <div style ="display:flex">
 
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamwangi123&show_icons=true&theme=radical)
+<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamwangi123&show_icons=true&theme=radical) -->
 
 </div>
   
