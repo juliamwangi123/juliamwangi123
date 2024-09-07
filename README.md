@@ -3,10 +3,8 @@
 
 
 
-- 🌱 I’m currently learning ...oops always learning
-- 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: ...juliahwambui3@gmail.com
-- ⚡ Fun fact: ... am a recovering introvert
+
+
 
 
 
